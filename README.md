@@ -13,7 +13,7 @@ To start the API locally, follow these steps:
 # API Documentation
 
 ## Register User
-Endpoint: `/v1/register`
+Endpoint: `localhost:8000/v1/register`
 
 Method: `POST`
 
@@ -40,7 +40,7 @@ Response:
 
 
 ## Login
-Endpoint: `/v1/login`
+Endpoint: `localhost:8000/v1/login`
 
 Method: `POST`
 
@@ -74,7 +74,7 @@ If enable_tfa is enabled on registration
 ```
 
 ## Validate OTP
-Endpoint: `/v1/validate_otp`
+Endpoint: `localhost:8000/v1/validate_otp`
 
 Method: `POST`
 
@@ -98,7 +98,7 @@ Response:
 
 
 ## Get Users
-Endpoint: `/v1/users`
+Endpoint: `localhost:8000/v1/users`
 
 Method: `GET`
 
