@@ -24,7 +24,7 @@ Request Body:
 {
     "email": "string",
     "password": "string",
-    "enable_tfa": "boolean" (optional, default is false)
+    "enable_tfa": "boolean (optional, default is false)"
 }
 ```
 
