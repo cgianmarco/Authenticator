@@ -49,7 +49,7 @@ Logs in a user.
 Request Body:
 ```json
 {
-    "username": "string",
+    "email": "string",
     "password": "string"
 }
 ```
