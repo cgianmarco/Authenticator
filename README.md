@@ -102,7 +102,7 @@ Endpoint: `/v1/users`
 
 Method: `GET`
 
-Retrieves all users.
+Retrieves all users (only for testing purposes).
 
 Response:
 
