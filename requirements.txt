@@ -5,6 +5,9 @@ python-dotenv
 cryptography
 pymysql
 sqlalchemy
+aiomysql
+aiosqlite
 pytest
+pytest-asyncio
 pydantic[email]
 bcrypt
